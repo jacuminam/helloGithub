@@ -1,2 +1,2 @@
 # helloGithub
-a test
+This is a line from RStudi
